@@ -1,6 +1,6 @@
 ---
 title: Donate
-description: Donate to our organization
+omit_header_text: true
 type: page
 menu: main
 
