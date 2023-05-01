@@ -11,7 +11,7 @@ cascade:
 
 Welcome to Linux4Jamaica, an American organization dedicated to bridging the digital divide by upcycling expired Chromebooks in the United States and distributing them to schools in Jamaica.
 
-Chromebooks used in the American education system have a built-in "expiration date". These computers are often rendered unusable to anybody without a high degree of technical expertise. 31.8 million Chromebooks were purchased globally in the first year of the COVID-19 pandemic, many which will expire within 4 years. If the lifespan of the Chromebooks sold in 2020 was doubled, it could result in a reduction of 4.6 million tons of CO2e emissions, which is equivalent to removing 900,000 cars from the road for a year [PRIG, April 2023](https://publicinterestnetwork.org/wp-content/uploads/2023/04/PIRG-Chromebook-Churn.pdf). 
+Chromebooks used in the American education system have a built-in "expiration date". These computers are often rendered unusable to anybody without a high degree of technical expertise. 31.8 million Chromebooks were purchased globally in the first year of the COVID-19 pandemic, many which will expire within 4 years. If the lifespan of the Chromebooks sold in 2020 was doubled, it could result in a reduction of 4.6 million tons of CO2e emissions, which is equivalent to removing 900,000 cars from the road for a year [{PRIG, April 2023)](https://publicinterestnetwork.org/wp-content/uploads/2023/04/PIRG-Chromebook-Churn.pdf). 
 
 ![Chromebooks from a school system that are no longer usable. Image credit: Peter Mui](/images/chromebook-churn-peter-mui.png)
 *Chromebooks from a school system that are no longer usable. Image credit: Peter Mui*
