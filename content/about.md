@@ -1,6 +1,5 @@
 ---
 title: About
-omit_header_text: true
 description: About our organization
 type: page
 menu: main
