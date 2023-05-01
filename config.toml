@@ -1,4 +1,4 @@
-baseURL = 'http://www.linux4jamaica.org/'
+baseURL = 'https://linux4jamaica.org/'
 languageCode = 'en-us'
 title = 'Linux4Jamaica'
 theme = 'ananke'
@@ -17,5 +17,5 @@ SectionPagesMenu = "main"
   favicon = "favicon.ico"
   site_logo = ""
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
+  background_color_class = "bg-dark-green"
   recent_posts_number = 3
