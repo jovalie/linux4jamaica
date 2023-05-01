@@ -6,4 +6,4 @@ menu: main
 
 ---
 
-This page is under construction! Please check back later.
+We are currently seeking Chromebooks with expired Chrome operating system to refurbish. Please contact us if you are interested in collaborating.
