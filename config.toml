@@ -1,6 +1,7 @@
 baseURL = 'https://www.linux4jamaica.org'
 languageCode = 'en-us'
 title = 'Linux4Jamaica'
+description = "Upcycled Computers for Educators in JA"
 theme = 'ananke'
 resourceDir = "../resources"
 
