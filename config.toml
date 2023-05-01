@@ -4,8 +4,9 @@ title = 'Linux4Jamaica'
 theme = 'ananke'
 resourceDir = "../resources"
 
-googleAnalytics = ""
+googleAnalytics = "G-GEM1D9JCBT"
 enableRobotsTXT = true
+canonifyURLs = true 
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
