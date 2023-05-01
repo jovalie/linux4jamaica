@@ -1,4 +1,4 @@
-baseURL = 'linux4jamaica.org/'
+baseURL = 'https://www.joanzheng.com/linux4jamaica/'
 languageCode = 'en-us'
 title = 'Linux4Jamaica'
 theme = 'ananke'
