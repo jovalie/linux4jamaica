@@ -21,6 +21,10 @@ First, consider taking your unusable laptop to a local computer repair center. A
 
 *A high school student repairs a Chromebook cart as a part of her technical internship. (Image credit: [The Oakland Side](https://oaklandside.org/2021/07/26/oakland-high-schoolers-repaired-more-than-3000-chromebooks-this-summer/))*
 
+![Professional repair](../../static/images/stock-image-repair.jpg)
+
+*Someone who has technical expertise can identify which parts of a broken computer can be sold for profit. (Image credit: iStock)*
+
 In Jamaica, laptops can be safely disposed of at any of the four National Solid Waste Management Authority (NSWMA) regional offices or its head office located in St Andrew.
 
 - 61 Half-Way Tree Road, Kingston 10 (Head Office)
