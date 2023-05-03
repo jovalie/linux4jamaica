@@ -9,7 +9,7 @@ Linux4Jamaica recognizes that all computers will one day be broken beyond repair
 
 ![Toxic Materials in PCs](/images/dangers-pc.png)
 
-*Health hazards of materials found in personal computers.*
+*Health hazards of materials found in personal computers. (Image credit: [Electronic Waste Jamaica](http://electronicwastejacomp1220uwi.weebly.com/electronic-waste-in-jamaica.html))*
 
 ![Improper Waste](/images/improper-waste.png)
 
