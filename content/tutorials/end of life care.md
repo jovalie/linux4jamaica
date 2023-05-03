@@ -2,8 +2,7 @@
 date: 2023-05-02T10:58:08-04:00
 description: "Recycle it all, no matter how small!"
 title: "End of Life Care"
-cascade:
-  featured_image: '/images/e-waste-banner.jpg'
+featured_image: '/images/e-waste-banner.jpg'
 ---
 
 Linux4Jamaica recognizes that all computers will one day be broken beyond repair. While we promote repair to extend the life of laptops, we also understand the importance of safe disposal practices. Electronics contain a wide variety of hazardous substances -- even small amounts of these toxics can be dangerous if released into the air, water and soil. Proper disposal of electronics protects our health and environment by keeping these substances out of our landfills and incinerators. Improper disposal of e-waste poses a significant threat to the environment and human health, which is why it's essential to dispose of electronic materials at a specialty waste center. We have a responsibility to preserve the natural beauty of Jamaica and promote safe disposal practices. 
