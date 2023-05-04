@@ -4,6 +4,7 @@ omit_header_text: true
 
 type: page
 menu: main
+featured_image: '/images/cover-7milebeach.jpg'
 
 ---
 
