@@ -43,7 +43,7 @@ menu: main
         <img src="/images/bio-joan-zheng.jpg" width="250">
     </td>
     <td>
-    <b>Joan Puteri Zheng, Founder</b>
+    <b>Joan Puteri Zheng, Founder & Tech Lead</b>
       
       <p>
       Joan Puteri is an American computer scientist and educator based in San Bernardino, California. She participated in the CR-48 Chrome OS pilot program in 2010, and has been involved in web technologies since then. Joan graduated with her Bachelor's of Science in Computer Science from the University of Minnesota, Twin Cities in Minneapolis, Minnesota. She currently holds a research position at a tech firm in Minneapolis, MN, and has multiple publications in the field of computer science and natural language processing. She is passionate about youth advocacy and technology outreach programs. 
