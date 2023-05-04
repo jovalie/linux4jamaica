@@ -53,3 +53,7 @@ IF YUH LITTER, YUH LIFE A GO BITTER!
 - E-Waste Can Now Be Dropped Off at Any NSWMA Facility. (2022, August 10) *Jamaica Information Service*. https://jis.gov.jm/e-waste-can-now-be-dropped-off-at-any-nswma-facility/
 - E-Waste in Jamaica. (2015, April) *Electronic Waste Jamaica* http://electronicwastejacomp1220uwi.weebly.com/electronic-waste-in-jamaica.html
 -  NSWMA to introduce E-Waste disposal programme (2021, September 13) *Jamaica Observer* https://www.jamaicaobserver.com/latest-news/nswma-to-introduce-e-waste-disposal-programme/
+
+---
+
+{{ template "_internal/disqus.html" . }}
