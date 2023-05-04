@@ -33,7 +33,7 @@ menu: main
       <b>Vanessa Gallimore, Community Outreach & Distribution</b>
       
       <p>
-      Vanessa is a Jamaican service and hospitality specialist with a passion for empowering her community with access to modern technology. She has partnered with Jamaican companies in industries ranging from food service to international tourism. As a mother of two young children, Vanessa understands the importance of equipping future generations with the tools they need to succeed. She graduated with her Bachelor's in Hospitality Services from the Culloden Vocational Training Center in Whitehouse, Jamaica.
+      Vanessa is a Jamaican service and hospitality specialist with a special interest in empowering her community with access to modern technology. She has partnered with Jamaican companies in industries ranging from food service to international tourism. As a mother of two young children, Vanessa understands the importance of equipping future generations with the tools they need to succeed. She graduated with her Bachelor's in Hospitality Services from the Culloden Vocational Training Center in Whitehouse, Jamaica.
       </p>
     </td>
   </tr>
