@@ -56,4 +56,4 @@ IF YUH LITTER, YUH LIFE A GO BITTER!
 
 ---
 
-{{ template "_internal/disqus.html" . }}
+{{< chat linux4jamaica-tutorials-eol-care >}}
