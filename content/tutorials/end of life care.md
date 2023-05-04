@@ -22,7 +22,7 @@ First, consider taking your unusable laptop to a local computer repair center. A
 ![Professional repair](/images/yarelin.png)
 
 *A high school student repairs a Chromebook cart as a part of her technical internship. (Image credit: [The Oakland Side](https://oaklandside.org/2021/07/26/oakland-high-schoolers-repaired-more-than-3000-chromebooks-this-summer/))*
-e0
+
 ![Professional repair](/images/stock-image-repair.jpg)
 
 *Someone who has technical expertise can identify which parts of a broken computer can be sold for profit. (Image credit: iStock)*
