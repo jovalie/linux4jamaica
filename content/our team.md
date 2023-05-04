@@ -20,7 +20,7 @@ menu: main
       <b>Joan Dao, Business Supervisor</b>
       
       <p>
-      Joan is an American tech entrepreneur with a diverse background in fashion, tech, and bio-science industries. She currently serves as the CEO of <a href="https://ilesovi.com/">Ilesovi Inc</a>, a company that specializes in creating high-end security IoT fashion devices. Joan is a firm believer in the power of tech-powered creativity, and she is living proof that innovation and creativity come from collaboration of seemingly unrelated interests. She holds a Bachelor's of Science degree in Biomedical and Medical Engineering from the University of Minnesota, Twin Cities, located in Minneapolis, Minnesota.
+      Joan is an American tech entrepreneur with a diverse background in fashion, tech, and bio-science industries. She currently serves as the CEO of <a href="https://ilesovi.com/">Ilesovi Inc</a>, a company that specializes in creating high-end security IoT fashion devices. Joan is a firm believer in the power of tech-powered creativity, and she is living proof that innovation and creativity come from collaboration of seemingly unrelated interests. She holds a Bachelor's of Science degree in Neuroscience from the University of Minnesota, Twin Cities, located in Minneapolis, Minnesota.
       </p>
     </td>
   </tr>
