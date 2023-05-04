@@ -4,7 +4,7 @@ title = '🇯🇲 Linux4Jamaica'
 description = "Upcycled Computers for Educators in JA"
 theme = 'ananke'
 resourceDir = "../resources"
-disqusShortname = 'linux4jamaica'
+
 googleAnalytics = 'G-GEM1D9JCBT'
 enableRobotsTXT = true
 canonifyURLs = true 

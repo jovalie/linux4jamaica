@@ -56,4 +56,4 @@ IF YUH LITTER, YUH LIFE A GO BITTER!
 
 ---
 
-{{ template "_internal/disqus.html" . }}
+{{< comments l4j-end-of-life-care >}}
