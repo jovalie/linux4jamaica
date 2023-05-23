@@ -47,7 +47,7 @@ featured_image: '/images/cover-7milebeach.jpg'
     <b>Joan Puteri Zheng, Founder & Tech Lead</b>
       
       <p>
-      Joan Puteri is an American computer scientist and educator based in San Bernardino, California. She participated in the CR-48 Chrome OS pilot program in 2010, and has been involved in web technologies since then. Joan graduated with her Bachelor's of Science in Computer Science from the University of Minnesota, Twin Cities in Minneapolis, Minnesota. She currently holds a research position at a tech firm in Minneapolis, MN, and has multiple <a href="https://scholar.google.com/citations?user=5pRAwpUAAAAJ">publications</a> in the field of computer science and natural language processing. She is passionate about youth advocacy and technology outreach programs. 
+      Joan Zheng is an American computer scientist and educator based in San Bernardino, California. She participated in the CR-48 Chrome OS pilot program in 2010, and has been involved in web technologies since then. Joan graduated with her Bachelor's of Science in Computer Science from the University of Minnesota, Twin Cities in Minneapolis, Minnesota. She currently holds a research position at a tech firm in Minneapolis, MN, and has multiple <a href="https://scholar.google.com/citations?user=5pRAwpUAAAAJ">publications</a> in the field of computer science and natural language processing. She is passionate about youth advocacy and technology outreach programs. 
       </p>
     </td>
   </tr>
