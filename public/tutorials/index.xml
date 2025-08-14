@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on 🇯🇲 Linux4Jamaica</title>
+    <link>https://www.linux4jamaica.org/tutorials/</link>
+    <description>Recent content in Tutorials on 🇯🇲 Linux4Jamaica</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 May 2023 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://www.linux4jamaica.org/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>End of Life Care</title>
+      <link>https://www.linux4jamaica.org/tutorials/end-of-life-care/</link>
+      <pubDate>Tue, 02 May 2023 10:58:08 -0400</pubDate>
+      <guid>https://www.linux4jamaica.org/tutorials/end-of-life-care/</guid>
+      <description>&lt;p&gt;Linux4Jamaica recognizes that all computers will one day be broken beyond repair. While we promote repair to extend the life of laptops, we also understand the importance of safe disposal practices. Electronics contain a wide variety of hazardous substances &amp;ndash; even small amounts of these toxics can be dangerous if released into the air, water and soil. Proper disposal of electronics protects our health and environment by keeping these substances out of our landfills and incinerators. Improper disposal of e-waste poses a significant threat to the environment and human health, which is why it&amp;rsquo;s essential to dispose of electronic materials at a specialty waste center. We have a responsibility to preserve the natural beauty of Jamaica by promoting safe disposal practices.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
