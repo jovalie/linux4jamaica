@@ -41,7 +41,7 @@ featured_image: '/images/cover-7milebeach.jpg'
 
   <tr style="vertical-align:top">
     <td style="width:33%; padding: 15px;">
-        <img src="/images/bio-joan-zheng.jpg" width="250">
+        <img src="/images/bio-joan-zheng.png" width="250">
     </td>
     <td>
     <b>Joan Puteri Zheng, Founder & Tech Lead</b>
